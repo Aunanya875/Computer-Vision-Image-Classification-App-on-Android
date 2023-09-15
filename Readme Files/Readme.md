@@ -1,4 +1,4 @@
-**Computer Vision (Image Classification) App on Android**
+## **Computer Vision (Image Classification) App on Android**
 
 **Introduction**: Computer Vision is like teaching computers to understand pictures better. In the past, computers could only remember how pictures looked, like the colors of all the dots. But with Computer Vision, computers can now look at pictures and figure out what's in them. For instance, in Computer Vision, if there's a picture of a cat, the computer can not only see the cat but also say, "Hey, there's a cat in this picture!" It's like the computer is getting smarter about pictures. There are various parts of Computer Vision. One part is called "Object Detection." It's when the computer looks at a picture and not only says what's in it but also draws boxes around the things it sees, so you know exactly where they are.
 
@@ -6,7 +6,7 @@
 
 **Working Procedure:**
 
-**A. Creating New Project**
+## **A. Creating New Project**
 
 1.  Opened Android Studio, went to the File menu and selected Create a New Project.
 2.  As it asked me to pick a project template, I selected Empty Views Activity, as it automatically creates an “activity_main.xml” file connecting it to the “MainActivity.kt” file.
@@ -19,7 +19,7 @@
 
 4.  Then I chose Kotlin as the preferred language and clicked Finish. Android Studio then created the app for me.
 
-**B. Import ML Kit's Image Labeling Library**
+## **B. Import ML Kit's Image Labeling Library**
 
 ML Kit is a toolbox for developers. It helps with common Machine Learning tasks and works on different devices. ML Kit has a ready-made tool called Image Labeling that you can easily use in your app. This tool can recognize more than six hundred types of images right away, making it great for beginners. One can also create their own custom models with ML Kit. In this scenario, I have built an animal recognizer. When I created this first app and showed it a picture of a cat, it recognized it as a cat with maximum value.
 
