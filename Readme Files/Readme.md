@@ -1,4 +1,4 @@
-## ## **Computer Vision (Image Classification) App on Android**
+## **Computer Vision (Image Classification) App on Android**
 
 **Introduction**: Computer Vision is like teaching computers to understand pictures better. In the past, computers could only remember how pictures looked, like the colors of all the dots. But with Computer Vision, computers can now look at pictures and figure out what's in them. For instance, in Computer Vision, if there's a picture of a cat, the computer can not only see the cat but also say, "Hey, there's a cat in this picture!" It's like the computer is getting smarter about pictures. There are various parts of Computer Vision. One part is called "Object Detection." It's when the computer looks at a picture and not only says what's in it but also draws boxes around the things it sees, so you know exactly where they are.
 
